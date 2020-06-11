@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/canban/static/js/main.47352c8c.chunk.js",
-    "main.js.map": "/canban/static/js/main.47352c8c.chunk.js.map",
+    "main.js": "/canban/static/js/main.4f1c998f.chunk.js",
+    "main.js.map": "/canban/static/js/main.4f1c998f.chunk.js.map",
     "runtime-main.js": "/canban/static/js/runtime-main.92700b2d.js",
     "runtime-main.js.map": "/canban/static/js/runtime-main.92700b2d.js.map",
     "static/css/2.af3c1da9.chunk.css": "/canban/static/css/2.af3c1da9.chunk.css",
     "static/js/2.78d06965.chunk.js": "/canban/static/js/2.78d06965.chunk.js",
     "static/js/2.78d06965.chunk.js.map": "/canban/static/js/2.78d06965.chunk.js.map",
     "index.html": "/canban/index.html",
-    "precache-manifest.129b36d7d7883df24f8e852f91c2833e.js": "/canban/precache-manifest.129b36d7d7883df24f8e852f91c2833e.js",
+    "precache-manifest.7f2a9b44cce5d322a6d6819b7064f9b7.js": "/canban/precache-manifest.7f2a9b44cce5d322a6d6819b7064f9b7.js",
     "service-worker.js": "/canban/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/canban/static/css/2.af3c1da9.chunk.css.map",
     "static/js/2.78d06965.chunk.js.LICENSE.txt": "/canban/static/js/2.78d06965.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.92700b2d.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.78d06965.chunk.js",
-    "static/js/main.47352c8c.chunk.js"
+    "static/js/main.4f1c998f.chunk.js"
   ]
 }

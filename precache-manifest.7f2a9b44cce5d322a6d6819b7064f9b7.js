@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b128d39acb95c1152e74bbdb95ba6832",
+    "revision": "886745600c7915f63abd0a669754fe5c",
     "url": "/canban/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/canban/static/js/2.78d06965.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22a92ec1cb445d5a0559",
-    "url": "/canban/static/js/main.47352c8c.chunk.js"
+    "revision": "418b565c7a7a545a457c",
+    "url": "/canban/static/js/main.4f1c998f.chunk.js"
   },
   {
     "revision": "30a7dba4b6f7ae23dc7a",
