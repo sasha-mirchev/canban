@@ -6,7 +6,7 @@ function TaskFilter(props) {
 
     return (
         <div>
-            Это вывод пропс! -
+
 
 
 
