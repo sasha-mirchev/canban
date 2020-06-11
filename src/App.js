@@ -15,7 +15,7 @@ function App() {
        {id: 6, name: 'Купить бензин для газонокосилки', status: 4, priority:3},
       {id: 7, name: 'Постиричь газон', status: 4, priority:3},
        {id: 8, name: 'Это просто чуть  длиннее строка для теста правильности отображения', status: 3, priority:2},
-        {id: 9, name: 'Запланировать репетиции группы!', status: 2, priority:1},
+   //     {id: 9, name: 'Запланировать репетиции группы!', status: 2, priority:1},
     ];
 
 
