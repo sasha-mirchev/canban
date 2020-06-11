@@ -11,11 +11,11 @@ function App() {
         {id: 2, name: 'Подготовить модель лодки к покраске', status: 2, priority:2},
       {id: 3, name: 'Подобрать и заказань снаряжение для похода на озеро', status: 1,  priority:1},
         {id: 4, name: 'Сделать домашнее задание', status: 4, priority:2},
- //       {id: 5, name: 'Подготовиться к рыбалке', status: 1, priority:3},
- //      {id: 6, name: 'Купить бензин для газонокосилки', status: 4, priority:3},
-//       {id: 7, name: 'Постиричь газон', status: 4, priority:3},
- //       {id: 8, name: 'Это просто чуть  длиннее строка для теста правильности отображения', status: 3, priority:2},
- //       {id: 9, name: 'Запланировать репетиции группы!', status: 2, priority:1},
+        {id: 5, name: 'Подготовиться к рыбалке', status: 1, priority:3},
+       {id: 6, name: 'Купить бензин для газонокосилки', status: 4, priority:3},
+      {id: 7, name: 'Постиричь газон', status: 4, priority:3},
+       {id: 8, name: 'Это просто чуть  длиннее строка для теста правильности отображения', status: 3, priority:2},
+        {id: 9, name: 'Запланировать репетиции группы!', status: 2, priority:1},
     ];
 
 
